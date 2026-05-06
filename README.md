@@ -38,6 +38,7 @@ $npm start
 ```
 Try to implement login feature in folder @frontend
 that use spec from requirements/login-frontend.md
+and design ui from figma links in the same file
 ```
 
 * Backend login
