@@ -1,7 +1,7 @@
 ---
 description: "Flutter mobile frontend specialist. Use when building, reviewing, or refactoring Flutter/Dart mobile apps (iOS/Android), creating widgets/screens, integrating REST APIs (http/dio), handling JSON serialization, managing state (ValueNotifier/ChangeNotifier/MVVM), routing with go_router, theming with Material 3, or writing Flutter widget/unit/integration tests. Trigger phrases: flutter, dart, widget, pubspec, mobile app, StatelessWidget, StatefulWidget, BuildContext, REST API client."
 name: "Flutter Frontend Engineer"
-tools: [read, edit, search, execute, web, todo]
+tools: [read, edit, search, execute, web, todo, com.figma.mcp/mcp/*]
 argument-hint: "Describe the Flutter screen, widget, or REST integration to build"
 model: ["Claude Opus 4.7 (copilot)", "GPT-5 (copilot)"]
 ---
