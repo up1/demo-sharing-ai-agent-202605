@@ -27,7 +27,7 @@ $flutter run
 $mkdir backend
 $cd backend
 $npm init -y
-$npm install express jsonwebtoken bcrypt
+$npm install express jsonwebtoken bcrypt dotenv
 $npm install --save-dev nodemon jest supertest
 $npm test
 $npm start
