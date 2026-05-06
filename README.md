@@ -36,8 +36,12 @@ $npm start
 ## Start coding with AI agents
 * Frontend login
 ```
+Try to implement login feature in folder @frontend
+that use spec from requirements/login-frontend.md
 ```
 
 * Backend login
 ```
+Try to implement login api in folder @backend
+that use spec from requirements/login-backend.md
 ```
