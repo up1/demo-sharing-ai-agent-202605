@@ -27,5 +27,5 @@ curl -X POST http://localhost:3000/api/register \
 # Login
 curl -X POST http://localhost:3000/api/login \
   -H "Content-Type: application/json" \
-  -d '{"email":"demo@example.com","password":"password123"}'
+  -d '{"email":"demo@email.com","password":"password123"}'
 ```
