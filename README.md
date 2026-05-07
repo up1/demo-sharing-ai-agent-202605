@@ -46,3 +46,13 @@ and design ui from figma links in the same file
 Try to implement login api in folder @backend
 that use spec from requirements/login-backend.md
 ```
+
+* Memory Bank
+```
+initialize memory bank
+
+update memory bank
+
+
+add task: wire login API to Flutter UI
+```
